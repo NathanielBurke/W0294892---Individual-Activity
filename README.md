@@ -1,2 +1,2 @@
-# W0294892---Individual-Activity
+# W0294892-Individual-Activity
 Cloud Individual Activity
